@@ -22,6 +22,7 @@ p {
 body {
   /*pour que le body fasse min 100% de la taille de l'ecran de l'utilisateur */
   min-height: 100vh;
+
   background: salmon;
   color: rgb(250, 250, 250);
 }
